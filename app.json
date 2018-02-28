@@ -7,11 +7,11 @@
   "env":{
     "APIKEY":{
       "description": "Youtube API V3 KEY",
-      "value": ""
+      "value": "AIzaSyD4Zgm65H1uincYyU0dyCU5m4a9WKHgn_c"
     },
     "GJ_CODE":{
       "description": "地区代码，HK,SG,US  ISO_3166-1",
-      "value": "US"
+      "value": "HK"
     },
     "SITE_NAME":{
       "description": "站点名字",
